@@ -14,8 +14,8 @@ export default {
     ],
     data() {
         return {
-            bookTitle = '',
-            bookAuthor = '',
+            bookTitle: '',
+            bookAuthor: '',
         }
     },
     methods: {
